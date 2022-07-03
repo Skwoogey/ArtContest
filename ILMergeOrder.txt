@@ -1,0 +1,5 @@
+ArtContest.dll
+System.Windows.Extensions.dll
+System.Drawing.Common.dll
+Microsoft.Win32.SystemEvents.dll
+ArtContest.exe
